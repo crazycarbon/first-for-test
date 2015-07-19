@@ -1,0 +1,4 @@
+ i use git remote add origin https://.......  .git
+git pull origin master 
+
+orders..
